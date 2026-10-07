@@ -7,6 +7,8 @@
 
 Northwind Commerce marketing API. Tier 3, public, no sensitive data.
 
+Campaign copy is public marketing content only: no account, payment or PII fields.
+
 - `GET /api/campaigns[?active=true]`
 
 ```bash
